@@ -6,3 +6,5 @@
 
 This is my github [Ninnjah](https://github.com/Ninnjah)
 
+<p align="center"><b>Visitor's Count:</b></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{Ninnjah}/count.svg" alt="AnhellO :: Visitor's Count"/></p>
