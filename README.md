@@ -5,6 +5,3 @@
 :seedling:Curently Learning Python for my self
 
 This is my github [Ninnjah](https://github.com/Ninnjah)
-
-<p align="center"><b>Visitor's Count:</b></p>
-<p align="center"><img src="https://profile-counter.glitch.me/{Ninnjah}/count.svg" alt="Ninnjah :: Visitor's Count"/></p>
