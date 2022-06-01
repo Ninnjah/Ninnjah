@@ -13,14 +13,16 @@
 <div>
   <p>:seedling: Curently Learning python web framework <img src="https://img.shields.io/badge/Flask-black?style=FLAT&logo=flask&logoColor=white"> for creation admin panels</p>
   <p>:hammer_and_wrench: Languages and Tools:
-    <img src="https://img.shields.io/badge/PYTHON-black?style=FLAT&logo=python&logoColor=306998">
-    <img src="https://img.shields.io/badge/heroku-black?style=FLAT&logo=heroku&logoColor=6762a6">
-    <img src="https://img.shields.io/badge/git-black?style=FLAT&logo=git&logoColor=f1502f">
-    <img src="https://img.shields.io/badge/PostgreSQL-black?style=FLAT&logo=postgresql&logoColor=316192">
-    <img src="https://img.shields.io/badge/Linux-black?style=FLAT&logo=linux&logoColor=white">
-    <img src="https://img.shields.io/badge/AioHTTP-black?style=FLAT&logo=aiohttp&logoColor=285BB5">
+    <img src="https://img.shields.io/badge/PYTHON-black?style=FLAT&logo=python&logoColor=3776AB">
+    <img src="https://img.shields.io/badge/heroku-black?style=FLAT&logo=heroku&logoColor=430098">
+    <img src="https://img.shields.io/badge/git-black?style=FLAT&logo=git&logoColor=F05032">
+    <img src="https://img.shields.io/badge/PostgreSQL-black?style=FLAT&logo=postgresql&logoColor=4169E1">
+    <img src="https://img.shields.io/badge/Linux-black?style=FLAT&logo=linux&logoColor=FCC624">
+    <img src="https://img.shields.io/badge/AioHTTP-black?style=FLAT&logo=aiohttp&logoColor=2C5BB4">
     <img src="https://img.shields.io/badge/PyCharm-black?style=FLAT&logo=pycharm&logoColor=2DD783">
-    <img src="https://img.shields.io/badge/redis-black?style=FLAT&logo=redis&logoColor=D82C20">
+    <img src="https://img.shields.io/badge/redis-black?style=FLAT&logo=redis&logoColor=DC382D">
     <img src="https://img.shields.io/badge/Markdown-black?style=FLAT&logo=markdown&logoColor=white">
-    <img src="https://img.shields.io/badge/TelegramAPI-black?style=FLAT&logo=telegram&logoColor=white">
+    <img src="https://img.shields.io/badge/TelegramAPI-black?style=FLAT&logo=telegram&logoColor=26A5E4">
 </p>
+  
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ninnjah&theme=dark&hide_border=true&date_format=%5BY.%5Dn.j&background=DD2727&border=DD2727)
