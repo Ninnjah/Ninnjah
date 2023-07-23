@@ -11,7 +11,7 @@
 ---
 
 <div>
-  <p>:seedling: Curently Learning python web framework <img src="https://img.shields.io/badge/Flask-black?style=FLAT&logo=flask&logoColor=white"> for creation admin panels</p>
+  <p>:seedling: Curently Learning aiogram 3 & FastAPI
   <p>:hammer_and_wrench: Languages and Tools:
     <img src="https://img.shields.io/badge/PYTHON-black?style=FLAT&logo=python&logoColor=3776AB">
     <img src="https://img.shields.io/badge/heroku-black?style=FLAT&logo=heroku&logoColor=634987">
