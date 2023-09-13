@@ -23,4 +23,6 @@
     <img src="https://img.shields.io/badge/redis-black?style=FLAT&logo=redis&logoColor=DC382D">
     <img src="https://img.shields.io/badge/Markdown-black?style=FLAT&logo=markdown&logoColor=white">
     <img src="https://img.shields.io/badge/TelegramAPI-black?style=FLAT&logo=telegram&logoColor=26A5E4">
+    <img src="https://img.shields.io/badge/FastAPI-black?style=FLAT&logo=fastapi&logoColor=009688">
+    
 </p>
