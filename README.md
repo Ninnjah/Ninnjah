@@ -1,11 +1,17 @@
 <div align=center>
   <h3 align=center>Hi there :wave: I'am Andrew - Python developer</h3>
+  <a href="https://git.dc09.ru/Ninnjah">
+    <img src="https://img.shields.io/badge/Gitea-000000?style=FLAT&logo=Gitea&logoColor=609926">
+  </a>
   <a href="https://github.com/Ninnjah">
     <img src="https://img.shields.io/badge/github-000000?style=FLAT&logo=GITHUB&logoColor=white">
+  </a>
+
+  <p>
     <img src="https://img.shields.io/github/followers/ninnjah?style=social">
     <img src="https://img.shields.io/badge/OpenSource%20%E2%9D%A4%EF%B8%8F-black?style=FLAT&logo=love&logoColor=white">
     <img src="https://img.shields.io/badge/Bot%20Developer-black?style=FLAT&logo=telegram&logoColor=white">
-  </a>
+  </p>
 </div>
 
 ---
